@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event</title>
+</head>
+<body>
+    <main>
+        <section>
+            <h2>NIT Raipur General Championship</h2>
+            <table border="3">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Activity</th>
+                        <th>Venue   </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>10:00 A.M</td>
+                        <td>Volleyball Championship</td>
+                        <td>Volleyball Court</td>
+                    </tr>
+                    <tr>
+                        <td>11:00 A.M</td>
+                        <td>Badminton Championship</td>
+                        <td>Sports Complex</td>
+                    </tr>
+                    <tr>
+                        <td>5:00 P.M</td>
+                        <td>Table Tennis</td>
+                        <td>Sports Complex</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>Registration Form</h2>
+
+            <form action="/Day-2/event.html" method="post">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="fullname" required>
+                <br><br>
+
+                <label for="roll">Roll Number:</label>
+                <input type="number" id="roll" name="rollnumber" required>
+                <br><br>
+
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+                <br><br>
+                
+                <p>Ticket Type:</p>
+                <input type="radio" id="visitor" name="ticket" value="visitor">
+                <label for="visitor">Visitor</label><br>
+
+                <input type="radio" id="vip" name="ticket" value="faculty">
+                <label for="faculty">Faculty</label><br>
+
+                <input type="radio" id="student" name="ticket" value="Student">
+                <label for="student">Student</label><br><br>
+                
+                <p>Select Event:</p>
+                <input type="checkbox" id="volleyball" name="workshop" value="volleyball">
+                <label for="volleyball">volleyball</label><br>
+
+                <input type="checkbox" id="badminton" name="badminton" value="badminton">
+                <label for="badminton">Badminton</label><br>
+
+                <input type="checkbox" id="tabletennis" name="tabletennis" value="tabletennis">
+                <label for="tabletennis">Table Tennis</label><br><br>
+
+                <label for="comments">Comments:</label><br>
+                <textarea id="comments" name="comments" rows="4" cols="40"></textarea>
+                <br><br>
+                <button type="submit">Submit</button>
+
+            </form>
+        </section>
+    </main>
+</body>
+</html>
