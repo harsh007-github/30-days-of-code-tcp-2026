@@ -16,5 +16,20 @@
 #### Day-2
 ![Project Screenshot 3](./Assets/Screenshot-3.png)
 
+#### Day-3
+![Project Screenshot 4](./Assets/Screenshot-5.png)
+![Project Screenshot 5](./Assets/Screenshot-6.png)
+![Project Screenshot 6](./Assets/Screenshot-7.png)
+
+#### Day-4
+![Project Screenshot 7](./Assets/Screenshot-8.png)
+![Project Screenshot 8](./Assets/Screenshot-9.png)
+
+#### Day-5
+![Project Screenshot 9](./Assets/Screenshot-10.png)
+
+#### Day-6
+![Project Screenshot 10](./Assets/Screenshot-11.png)
+
 #### Day-7
-![Project Screenshot 4](./Assets/Screenshot-4.png)
+![Project Screenshot 111](./Assets/Screenshot-4.png)
