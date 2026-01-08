@@ -32,4 +32,7 @@
 ![Project Screenshot 10](./Assets/Screenshot-11.png)
 
 #### Day-7
-![Project Screenshot 111](./Assets/Screenshot-4.png)
+![Project Screenshot 11](./Assets/Screenshot-4.png)
+
+#### Day-8
+![Project Screenshot 12](./Assets/Screenshot-12.png)
